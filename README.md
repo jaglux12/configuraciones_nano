@@ -1,1 +1,1 @@
-#Configuraciones de Nano (Text Editor)
+# Configuraciones de Nano (Text Editor)
