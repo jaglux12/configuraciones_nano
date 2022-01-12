@@ -1,0 +1,4 @@
+#!/usr/bin/fish
+set -u | grep fish_color > colores.txt
+echo "Colores guardados en el archivo...."
+
